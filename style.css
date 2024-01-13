@@ -1,0 +1,17 @@
+h4{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    font-style: italic;
+    font-weight: 800;
+}
+p.a{
+    font-weight: 500;
+    font-style: normal;
+}
+p.b{
+    font-style: normal;
+    font-weight:bold;
+}
